@@ -1,0 +1,3 @@
+Valores recebidos referente ao pagamento de título em cartório
+
+Título: 123456.14000000000012345Valor: R$ 250,00 Cheque Nº: 14404 
